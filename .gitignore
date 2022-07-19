@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # External data
-.data/
+/data
+
+# Database data
+/db
